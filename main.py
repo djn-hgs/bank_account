@@ -1,5 +1,6 @@
 import datetime
-
+class Bank:
+    ...
 
 class BankAccount:
     def __init__(self, name, initial_balance, dob, acc_num):
